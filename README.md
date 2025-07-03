@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Weldon Kenei</h1>
-<h3 align="center">Cloud Security Engineer | DevOps Enthusiast</h3>
+<h3 align="center">Cloud Security Engineer | DevSecOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Cyber Security" width="400">
