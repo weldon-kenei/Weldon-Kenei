@@ -44,7 +44,7 @@
 - Kubernetes hardening playbooks  
 - Docker vulnerability scanning  
 
-###[DevOps Sample Deployment](https://github.com/weldon-kenei/Python-Flask-FastAPI-app)
+### [DevOps Sample Deployment](https://github.com/weldon-kenei/Python-Flask-FastAPI-app)
 - CI/CD
 - Static Code Review
 - GitHub Actions
